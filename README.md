@@ -9,7 +9,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/userbotindo/UserIndoBot/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/MR-SHRLCK/X-elizabeth/graphs/commit-activity)
 
-# <b>DEPLOY TO HEROKU📤.</b>
+# <b>DEPLOY TO HEROKU💃.</b>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-SHRLCK/X-elizabeth)
 
 
