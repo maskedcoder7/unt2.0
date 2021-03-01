@@ -197,7 +197,7 @@ def new_member(update, context):
             # Give the DEV a special welcome
             if new_mem.id in DEV_USERS:
                 update.effective_message.reply_text(
-                    "My Dev Here, Let's See What Happened Now.. 🔥",
+                    "My Real Dev @mr_srlock is Here, Let's See What Happened Now.. 🔥",
                     reply_to_message_id=reply,
                 )
                 continue
