@@ -10,6 +10,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/MR-SHRLCK/X-elizabeth/graphs/commit-activity)
 
 # <b>DEPLOY TO HEROKU💃.</b>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-SHRLCK/X-elizabeth)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-SHRLCK/ElizabethBot)
 
 
