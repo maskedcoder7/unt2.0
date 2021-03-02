@@ -186,7 +186,6 @@ if ENV:
     SPAMWATCH = Config.SPAMWATCH_API
     LASTFM_API_KEY = Config.LASTFM_API_KEY
 
-DEV_USERS.add(OWNER_ID)
 
 # Pass if SpamWatch token not set.
 if SPAMWATCH is None:
