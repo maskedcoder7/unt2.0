@@ -121,9 +121,6 @@ if ENV:
     IBM_WATSON_CRED_PASSWORD = os.environ.get("IBM_WATSON_CRED_PASSWORD", None)
 
 
-else:
-    from Elizabeth.config import Development as Config
-
     TOKEN = Config.API_KEY
     try:
         OWNER_ID = int(Config.OWNER_ID)
