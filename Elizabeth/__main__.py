@@ -63,7 +63,7 @@ buttons += [[InlineKeyboardButton(text="🔒 CLOSE THE MENU 🔒",
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` [ELIZABETH🍀](https://telegra.ph/file/281aaa468756db0769df0.jpg)
+`Hi.. I'm` [ELIZABETH🍀](https://telegra.ph/file/54ed9e0d6eef2cc730f12.jpg)
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
