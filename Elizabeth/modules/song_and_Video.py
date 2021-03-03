@@ -1,4 +1,5 @@
 # Created by @p_rinc_e
+# Re-edied by @mr_srlock
 from pathlib import Path
 import asyncio, time, io, math, os, logging, asyncio, shutil, re, subprocess, json
 from re import findall
@@ -46,9 +47,9 @@ async def download_video(v_url):
     lazy = v_url ; sender = await lazy.get_sender() ; me = await lazy.client.get_me()
 
     if not sender.id == me.id:
-        rkp = await lazy.reply("`processing...`")
+        rkp = await lazy.reply("`searching🔎...`")
     else:
-    	rkp = await lazy.edit("`processing...`")   
+    	rkp = await lazy.edit("`searching🔎...`")   
     url = v_url.pattern_match.group(1)
     if not url:
          return await rkp.edit("`Error \nusage song <song name>`")
@@ -61,7 +62,7 @@ async def download_video(v_url):
     except:
     	return await rkp.edit("`failed to find`")
     type = "audio"
-    await rkp.edit("`Preparing to download...`")
+    await rkp.edit("`Preparing to download🤗...`")
     if type == "audio":
         opts = {
             'format':
@@ -93,18 +94,18 @@ async def download_video(v_url):
         video = False
         song = True    
     try:
-        await rkp.edit("`Fetching data, please wait..`")
+        await rkp.edit("`Fetching data, please wait🕺..`")
         with YoutubeDL(opts) as rip:
             rip_data = rip.extract_info(url)
     except DownloadError as DE:
         await rkp.edit(f"`{str(DE)}`")
         return
     except ContentTooShortError:
-        await rkp.edit("`The download content was too short.`")
+        await rkp.edit("`The download content was too short🥺.`")
         return
     except GeoRestrictedError:
         await rkp.edit(
-            "`Video is not available from your geographic location due to geographic restrictions imposed by a website.`"
+            "`Video is not available from your geographic location due to geographic restrictions imposed by a website😂.`"
         )
         return
     except MaxDownloadsReached:
@@ -127,7 +128,7 @@ async def download_video(v_url):
         return
     c_time = time.time()
     if song:
-        await rkp.edit(f"`Preparing to upload song:`\
+        await rkp.edit(f"`Preparing to upload song by @mr_srlock:`\
         \n**{rip_data['title']}**\
         \nby *{rip_data['uploader']}*")
         await v_url.client.send_file(
@@ -164,9 +165,9 @@ async def download_video(v_url):
 async def download_video(v_url):  
     lazy = v_url ; sender = await lazy.get_sender() ; me = await lazy.client.get_me()
     if not sender.id == me.id:
-        rkp = await lazy.reply("`processing...`")
+        rkp = await lazy.reply("`searching🔎...`")
     else:
-    	rkp = await lazy.edit("`processing...`")   
+    	rkp = await lazy.edit("`searching🔎...`")   
     url = v_url.pattern_match.group(1)
     if not url:
          return await rkp.edit("`Error \nusage song <song name>`")
@@ -177,9 +178,9 @@ async def download_video(v_url):
     try:
        url = q[0]['link']
     except:
-    	return await rkp.edit("`failed to find`")
+    	return await rkp.edit("`failed to find🥺`")
     type = "audio"
-    await rkp.edit("`Preparing to download...`")
+    await rkp.edit("`Preparing to download🤗...`")
     if type == "audio":
         opts = {
             'format':
@@ -208,7 +209,7 @@ async def download_video(v_url):
         song = False
         video = True
     try:
-        await rkp.edit("`Fetching data, please wait..`")
+        await rkp.edit("`Fetching data, please wait🕺..`")
         with YoutubeDL(opts) as rip:
             rip_data = rip.extract_info(url)
     except DownloadError as DE:
@@ -242,7 +243,7 @@ async def download_video(v_url):
         return
     c_time = time.time()
     if song:
-        await rkp.edit(f"`Preparing to upload song `\
+        await rkp.edit(f"`Preparing to upload song by @mr_srlock `\
         \n**{rip_data['title']}**\
         \nby *{rip_data['uploader']}*")
         await v_url.client.send_file(
