@@ -40,20 +40,20 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 PM_START_TEXT = f"""
 `Hi..Welcome` 👀
-`I'm` [ELIZABETH🍀](https://telegra.ph/file/debaabe44781f92783315.jpg)
+`I'm` [𝓔𝓵𝓲𝔃𝓪𝓫𝓮𝓽𝓱࿐](https://telegra.ph/file/debaabe44781f92783315.jpg)
 `I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
 """
 
-buttons = [[InlineKeyboardButton(text="➡️ HELP AND COMMANDS ⬅️",
+buttons = [[InlineKeyboardButton(text="🎀 HELP AND COMMANDS 🎀",
                                   callback_data="help_back"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="🌍 ADD ME TO YOUR GROUP 🌍",
+buttons += [[InlineKeyboardButton(text="🎁 ADD ME TO YOUR GROUP 🎁",
                                   url="t.me/Elizabeth_TgBot?startgroup=true"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="💾SOURCE CODE",
-                                  url="https://github.com/P-RINC-E/ELIZABETH"),
+                                  url="https://github.com/MR-SHRLCK"),
              InlineKeyboardButton(text="🌳SUPPORT",
                                   url="https://t.me/ELIZABETH_SUPPORT"),
 ]]
@@ -63,7 +63,7 @@ buttons += [[InlineKeyboardButton(text="🔒 CLOSE THE MENU 🔒",
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` [ELIZABETH🍀](https://telegra.ph/file/54ed9e0d6eef2cc730f12.jpg)
+`Hi.. I'm` [𝓔𝓵𝓲𝔃𝓪𝓫𝓮𝓽𝓱࿐](https://telegra.ph/file/54ed9e0d6eef2cc730f12.jpg)
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
@@ -219,8 +219,8 @@ def start_stop(update, context):
 
     chat = update.effective_chat  # type: Optional[Chat]
     first_name = update.effective_user.first_name
-    text = "The menu is closed 🔒"
-    buttons = [[InlineKeyboardButton(text="Reopen Menu 🔓",
+    text = "🎭The menu is closed 🎭"
+    buttons = [[InlineKeyboardButton(text="🍁Reopen Menu🍁",
                                      callback_data="bot_start")]]
 
     update.effective_message.reply_text(
