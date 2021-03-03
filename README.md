@@ -1,15 +1,18 @@
-# X elizabeth..🦋
-![logo](https://telegra.ph/file/0157c7b6cd269654ee987.jpg)
+# Alankritha
+<p align="center">
+    <a href="https://github.com/p-rinc-e/Elizabeth/commits/master"><img src="https://img.shields.io/github/last-commit/p-rinc-e/Elizabeth/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
+    <a href="https://github.com/p-rinc-e/Elizabeth/stargazers"><img src="https://img.shields.io/github/stars/p-rinc-e/Elizabeth?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/p-rinc-e/Elizabeth/network/members"><img src="https://img.shields.io/github/forks/p-rinc-e/Elizabeth?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
+</p>
 
-<img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "center">
+![logo](https://telegra.ph/file/29916307687189e84676f.jpg)
+💌 Reach me on Telegram [Alankritha](https://t.me/VillainProBot)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8bfae649db3742a883e0ac1008755db3)](https://www.codacy.com/gh/userbotindo/UserIndoBot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=userbotindo/UserIndoBot&amp;utm_campaign=Badge_Grade)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/userbotindo/UserIndoBot/pulls)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/MR-SHRLCK/X-elizabeth/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/p-rinc-e/Elizabeth/graphs/commit-activity)
 
-# <b>DEPLOY TO HEROKU💃.</b>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-SHRLCK/ElizabethBot)
 
+## How To Host
+The easiest way to deploy this userbot
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/piku-adhi/Alankritha"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="220" height="34.45"/></a></p>
 
