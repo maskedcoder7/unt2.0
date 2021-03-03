@@ -4,7 +4,6 @@ Here is all the staff's commands.
 *OWNER*
 × /broadcast: Send a broadcast message to all chat that i'm currently in.
 × /staffids: Get all staff's you have.
-× /ip: Sends the bot's IP address to ssh in if necessary (PM only).
 
 *DEV USERS*
 × /dbcleanup: Clean my invalid database.
@@ -17,7 +16,6 @@ Here is all the staff's commands.
 × /snipe <chatid> <string>: Tell me to send a message to the given chat.
 × /echo <string>: Like snipe but on the current chat.
 × /chatlist: Get the list of chat that i'm currently in.
-× /ping: Start a ping test.
 
 *SUPPORT USERS*
 × /gban <userid>: global ban a user.
