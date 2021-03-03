@@ -1,5 +1,6 @@
 # Created by @p_rinc_e
 # Re-edied by @mr_srlock
+# note one think.i take many efforts to maks the fastest telethon so don't remove my credits.
 from pathlib import Path
 import asyncio, time, io, math, os, logging, asyncio, shutil, re, subprocess, json
 from re import findall
