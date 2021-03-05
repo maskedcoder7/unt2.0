@@ -40,7 +40,7 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 PM_START_TEXT = f"""
 `Hi..Welcome` [🦋](https://telegra.ph/file/debaabe44781f92783315.jpg)
-`I'm` єlízαвєth
+`I'm`  єlízαвєth
 `I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
 """
 
@@ -63,7 +63,7 @@ buttons += [[InlineKeyboardButton(text="🎀 CLOSE THE MENU 🎀",
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` [єlízαвєth](https://telegra.ph/file/54ed9e0d6eef2cc730f12.jpg)
+`Hi.. I'm` єlízαвєth[🦋](https://telegra.ph/file/54ed9e0d6eef2cc730f12.jpg)
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
