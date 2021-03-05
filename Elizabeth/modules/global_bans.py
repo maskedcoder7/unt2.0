@@ -113,6 +113,7 @@ def gban(update, context):
     if user_id == int(1529479707):
          message.reply_text(
              "I don't know this user.")
+        return
     if user_id == context.bot.id:
         message.reply_text(
             "-_- So funny, lets gban myself why don't I? Nice try.")
