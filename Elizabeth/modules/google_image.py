@@ -38,7 +38,7 @@ async def img_sampler(event):
         return
      if event.is_group:
        if not (await is_register_admin(event.input_chat, event.message.sender_id)):
-          await event.reply("😜 Hai.. You are not admin..🤭 You can't use this command.. But you can use in my pm🙈")
+          await event.reply("😜 Heya,You are not admin or mod 🥺.So you can't do this command in this chat 😅.But you can use me in pm😁")
           return
      query = event.pattern_match.group(1)
      jit = f'"{query}"'
