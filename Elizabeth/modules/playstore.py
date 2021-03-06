@@ -30,7 +30,7 @@ async def is_register_admin(chat, user):
 async def apk(e):
     if e.is_group:
      if not (await is_register_admin(e.input_chat, e.message.sender_id)):
-          await e.reply("🙄 You are not admin here.. But you can use this command in my pm 😜🙈")
+          await e.reply("🙄 You are not admin here.. Use me in pm 🤗")
           return
     try:
         app_name = e.pattern_match.group(1)
@@ -51,7 +51,7 @@ async def apk(e):
         app_details += "\n\n<code>Developer :</code> <a href='"+app_dev_link+"'>"+app_dev+"</a>"
         app_details += "\n<code>Rating :</code> "+app_rating.replace("Rated ", "⭐ ").replace(" out of ", "/").replace(" stars", "", 1).replace(" stars", "⭐ ").replace("five", "5")
         app_details += "\n<code>Features :</code> <a href='"+app_link+"'>View in Play Store</a>"
-        app_details += "\n\n 🍀 @ELIZABETH_TGBOT 🍀"
+        app_details += "\n\n 🖤 @MR_SRLOCK 🤍"
         await e.reply(app_details, link_preview = True, parse_mode = 'HTML')
     except IndexError:
         await e.reply("No result found in search. Please enter **Valid app name**")
