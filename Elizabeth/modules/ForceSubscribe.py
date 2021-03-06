@@ -24,11 +24,11 @@ from pyrogram.errors.exceptions.bad_request_400 import (
     UsernameNotOccupied,
     UserNotParticipant,
 )
-from pyrogram.types import ChatPermissions, InlineKeyboardButton, InlineKeyboardMarkup
+from telethon.types import ChatPermissions, InlineKeyboardButton, InlineKeyboardMarkup
 
-from DaisyX import DRAGONS as SUDO_USERS
-from DaisyX import pbot
-from DaisyX.modules.sql import forceSubscribe_sql as sql
+from Elizabeth import DRAGONS as SUDO_USERS
+from Elizabeth import pbot
+from Elizabeth.modules.sql import forceSubscribe_sql as sql
 
 logging.basicConfig(level=logging.INFO)
 
@@ -209,4 +209,4 @@ Note: /FSub is an alias of /ForceSubscribe
 💭 Only on Sinhala 🇱🇰 yet
  
 """
-__mod_name__ = "📢 Force Subscribe 💭"
+__mod_name__ = "Force Subscribe"
