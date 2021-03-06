@@ -41,7 +41,7 @@ async def _(event):
         return
     if event.is_group:
      if not (await is_register_admin(event.input_chat, event.message.sender_id)):
-       await event.reply("😜 Hai.. You are not admin..🤭 You can't use this command.. But you can use in my pm🙈")
+       await event.reply("😜 Heya,You are not admin or mod 🥺.So you can't do this command in this chat 😅.But you can use me in pm😁")
        return
     # SHOW_DESCRIPTION = False
     input_str = event.pattern_match.group(1) # + " -inurl:(htm|html|php|pls|txt) intitle:index.of \"last modified\" (mkv|mp4|avi|epub|pdf|mp3)"
