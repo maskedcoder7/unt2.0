@@ -6,7 +6,8 @@
 </p>
 
 ![logo](https://telegra.ph/file/0157c7b6cd269654ee987.jpg)
-
+# credits
+All credits belongs to [dark prince](https://github.com/Mr-Dark-Prince) because it's his work I just take his repo with his permission..
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/p-rinc-e/Elizabeth/graphs/commit-activity)
