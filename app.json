@@ -1,9 +1,9 @@
 {
-  "name": "Alankritha",
+  "name": "Elizabeth",
   "description": "A Powerful Telegram Bot written in PTB and Telethon",
-  "logo": "https://telegra.ph/file/59e29ae4fb0a03140689f.jpg",
+  "logo": "https://telegra.ph/file/6457edc803082490730de.jpg",
   "keywords": ["telegram-bot"],
-  "repository": "https://github.com/DONOFTELEGRAM/Alankritha.git",
+  "repository": "https://github.com/MR-SHRLCK/Elizabethbot.git",
   "env": {
     "TL_APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
