@@ -125,3 +125,4 @@ repeat for your username, password, hostname (localhost?), port (5432?), and db 
 Keep Credits for [me](https://github.com/MR-SHRLCK) and [prince](https://github.com/Mr-Dark-Prince)
 <b> Note one think </b> I waste my many time in front my pc for bring back she.so that's respectable.i know you import or frok this repo and make changes.. that's ok I don't care. But kepp Credits.if you Kang this repo without credits I believe you are a bitch..
 
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Mr-SHRLCK/ElizabethBot)
