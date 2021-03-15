@@ -1,7 +1,6 @@
 
 from Elizabeth.modules.sql_extended.night_mode_sql import add_nightmode, rmnightmode, get_all_chat_id, is_nightmode_indb
 from telethon.tl.types import ChatBannedRights
-from apscheduler.schedulers.asyncio import AsyncIOScheduler 
 from telethon import functions
 from Elizabeth.events import register
 from Elizabeth import telethn as tbot
