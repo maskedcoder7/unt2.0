@@ -3,7 +3,7 @@ from Elizabeth.modules.sql_extended.night_mode_sql import add_nightmode, rmnight
 from telethon.tl.types import ChatBannedRights
 from telethon import functions
 from Elizabeth.events import register
-from Elizabeth import telethn as tbot
+from Elizabeth import telethon as tbot
 import os
 
 hehes = ChatBannedRights(
