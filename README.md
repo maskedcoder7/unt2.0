@@ -71,8 +71,8 @@ The following env variables are supported:
  accesses, and the way python asynchronous calls work.
  - `BAN_STICKER`: Which sticker to use when banning people.
  - `ALLOW_EXCL`: Whether to allow using exclamation marks ! for commands as well as /.
- - 'YOUTUBE_API':FOR download songs and videos from youtube [not reccamonded]
- - 'Message dumb': nedds
+ - `YOUTUBE_API`:FOR download songs and videos from youtube [not reccamonded]
+ - `Message dumb`: nedds
  
 ### Python dependencies
 
