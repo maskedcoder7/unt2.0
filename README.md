@@ -6,8 +6,10 @@
 </p>
 
 ![logo](https://telegra.ph/file/0157c7b6cd269654ee987.jpg)
+<p align="center'>
 <code> [ᴇʟɪᴢᴀʙᴇᴛʜ 2.0](https://github.com/Mr-SHRLCK/Elizabeth-2.0)
  </code>
+</p>
 # credits
 <b>All credits belongs to [dark prince](https://github.com/Mr-Dark-Prince) because it's his work I just take his repo with his permission.. and his efforts all are unforgoted</b>
 
