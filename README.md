@@ -5,7 +5,7 @@
     <a href="https://github.com/MR-SHRLCK/Elizabethbot/network/members"><img src="https://img.shields.io/github/forks/MR-SHRLCK/Elizabethbot?label=Fork&style=flat-square&logo=github&color=F10070" alt="Fork" /></a>
 </p>
 
-![logo](https://telegra.ph/file/0157c7b6cd269654ee987.jpg)[|](https://github.com/Mr-SHRLCK/ElizabethBot)
+![logo](https://telegra.ph/file/0157c7b6cd269654ee987.jpg)
 <p align="center">
 
 [ <b> <code> ᴇʟɪᴢᴀʙᴇᴛʜ 2.0 </code> </b> ](https://github.com/Mr-SHRLCK/Elizabeth-2.0)  Tap the banner ⚠️
