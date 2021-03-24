@@ -8,7 +8,7 @@
 ![logo](https://telegra.ph/file/0157c7b6cd269654ee987.jpg)
 
 <p align="center">
-[<code> [ᴇʟɪᴢᴀʙᴇᴛʜ 2.0]</code>](https://github.com/Mr-SHRLCK/Elizabeth-2.0)
+[<code> ᴇʟɪᴢᴀʙᴇᴛʜ 2.0</code>](https://github.com/Mr-SHRLCK/Elizabeth-2.0)
 </p>
 
 # credits
