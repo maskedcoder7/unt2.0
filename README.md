@@ -9,7 +9,7 @@
 
 <p align="center">
 
-[<code> ᴇʟɪᴢᴀʙᴇᴛʜ 2.0 </code>](https://github.com/Mr-SHRLCK/Elizabeth-2.0)
+[ <b> <code> ᴇʟɪᴢᴀʙᴇᴛʜ 2.0 </code> </b> ](https://github.com/Mr-SHRLCK/Elizabeth-2.0)  Tap the banner ⚠️
 </p>
 
 
