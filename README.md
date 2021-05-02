@@ -1,3 +1,4 @@
+<b> elizabeth is dead </b>
 # Elizabeth
 <p align="center">
     <a href="https://github.com/MR-SHRLCK/Elizabethbot/commits/master"><img src="https://img.shields.io/github/last-commit/MR-SHRLCK/Elizabethbot/master?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
