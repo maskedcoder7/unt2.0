@@ -55,7 +55,7 @@ buttons += [[InlineKeyboardButton(text="ADD ME TO YOUR CHATS ",
 buttons += [[InlineKeyboardButton(text="SOURCE CODE OR REPO",
                                   url="https://t.me/PYTHONPIRATES/41"),
              InlineKeyboardButton(text="SUPPORT🌳",
-                                  url="https://t.me/THE_UNT"),
+                                  url="https://t.me/untchats"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="ABOUT UNT FED",
