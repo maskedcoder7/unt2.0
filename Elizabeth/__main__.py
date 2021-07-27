@@ -41,7 +41,7 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 PM_START_TEXT = f"""
 `Hi..Welcome` [🔥](https://telegra.ph/file/297476c0d91e6db025540.jpg)  
 `I'm`  UNT FED BOT
-`I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
+`a bot for federation actions connected to huge number of groups check out the below buttons for more info ..`
 """
 
 buttons = [[InlineKeyboardButton(text=" ABOUT UNT BOT 🇮🇳",
